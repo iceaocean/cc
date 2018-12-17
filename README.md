@@ -1,2 +1,2 @@
 # cc
-cc project
+This is a cc project.
